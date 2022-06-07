@@ -16,4 +16,5 @@ git status
 ```
 git add <nom du fichier> <nom du ficher> 
 ```
+*
 
