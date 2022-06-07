@@ -12,3 +12,8 @@ git init
 ```
 git status
 ```
+* Ajouter les dernières modifications du fichier `README.md`
+```
+git add <nom du fichier> <nom du ficher> 
+```
+
