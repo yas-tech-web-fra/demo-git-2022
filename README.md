@@ -26,6 +26,7 @@ git add <nom du fichier> <nom du ficher>
 ```
 git commit -m "<nom du commit>"
 ```
+*
 
 
 
