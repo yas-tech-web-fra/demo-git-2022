@@ -12,9 +12,21 @@ git init
 ```
 git status
 ```
-* Ajouter les dernières modifications du fichier `README.md`
+* Ajouter un utilisateur
+```
+git config --config user.name "mon_nom"
+git config --config user.eamil "mon_email"
+```
+* Ajouter les dernières modifications <`Nom_du_ficher`>
 ```
 git add <nom du fichier> <nom du ficher> 
 ```
-* A
+
+* Sauvegarder un commit
+```
+git commit -m "<nom du commit>"
+```
+
+
+
 
