@@ -3,7 +3,7 @@
 ## Présentation
 Ce projet est géré par Git.
 
-## Commande git
+## Commandes git
 * Pour initialiser git dans un dossier: 
 ``` 
 git init
@@ -26,6 +26,7 @@ git add <nom du fichier> <nom du ficher>
 ```
 git commit -m "<nom du commit>"
 ```
+
 
 
 
